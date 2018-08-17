@@ -4,7 +4,7 @@
 The goal is understanding : 
   * A - function hoisting : 
     * only named function are hoisted
-    * anonymous function are not hoisted
+    * anonymous fnction are not hoisted
   * Scope : 
     * var has function scope
         * Variables are defined in the scope wgere they are used.
