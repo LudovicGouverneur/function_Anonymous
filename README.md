@@ -16,7 +16,7 @@ The goal is understanding :
 A function : can have information from the arg/param or from global scope.    
     
     
-```
+```javascript
 var a = 1;
 
 function plusone(){
