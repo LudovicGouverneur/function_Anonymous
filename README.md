@@ -13,6 +13,25 @@ The goal is understanding :
     * Are the arguments in read-only || argument of the function are on the right-end side of the equal;
     * Are all variable param defined in the frame
     
+A function : can have information from the arg/param or from global scope.    
     
     
-    
+```
+var a = 1;
+
+function plusone(){
+  a++;
+  let result = a; 
+  return result
+  }
+
+var b = plusone()
+// var a = 1;
+
+// var b = function(){
+//   a++;
+//   let result = a; 
+//   return result
+//   }
+// console.log(b);
+```
