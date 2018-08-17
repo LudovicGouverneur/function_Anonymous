@@ -1,5 +1,7 @@
 # Function_Anonymous
 
+Other relevant exercices! : 
+ * https://github.com/LudovicGouverneur/Function_Expansions.git
 ## Description
 The goal is understanding : 
   * A - function hoisting : 
